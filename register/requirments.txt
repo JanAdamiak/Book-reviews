@@ -1,0 +1,5 @@
+WTForms
+Flask
+Flask-Session
+passlib
+Flask-SQLAlchemy
