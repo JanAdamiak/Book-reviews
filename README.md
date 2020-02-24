@@ -1,4 +1,4 @@
 # Project 1
 
-Web Programming with Python and JavaScript
+Web app template for my website
 # review-app
